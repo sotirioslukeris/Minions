@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sotirios \u0438 Hristo 11d\\Minions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD14C71-2F1A-44D4-BFBD-DDA6AF9DEF94}|Minions.csproj|c:\\sotirios \u0438 hristo 11d\\minions\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD14C71-2F1A-44D4-BFBD-DDA6AF9DEF94}|Minions.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD14C71-2F1A-44D4-BFBD-DDA6AF9DEF94}|Minions.csproj|C:\\Sotirios \u0438 Hristo 11d\\Minions\\comboitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD14C71-2F1A-44D4-BFBD-DDA6AF9DEF94}|Minions.csproj|solutionrelative:comboitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD14C71-2F1A-44D4-BFBD-DDA6AF9DEF94}|Minions.csproj|C:\\Sotirios \u0438 Hristo 11d\\Minions\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DD14C71-2F1A-44D4-BFBD-DDA6AF9DEF94}|Minions.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD14C71-2F1A-44D4-BFBD-DDA6AF9DEF94}|Minions.csproj|C:\\Sotirios \u0438 Hristo 11d\\Minions\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD14C71-2F1A-44D4-BFBD-DDA6AF9DEF94}|Minions.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DD14C71-2F1A-44D4-BFBD-DDA6AF9DEF94}|Minions.csproj|C:\\Sotirios \u0438 Hristo 11d\\Minions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DD14C71-2F1A-44D4-BFBD-DDA6AF9DEF94}|Minions.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Sotirios \u0438 Hristo 11d\\Minions\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Sotirios \u0438 Hristo 11d\\Minions\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T07:02:34.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Sotirios \u0438 Hristo 11d\\Minions\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Sotirios \u0438 Hristo 11d\\Minions\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T07:27:14.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComboItem.cs",
+              "DocumentMoniker": "C:\\Sotirios \u0438 Hristo 11d\\Minions\\ComboItem.cs",
+              "RelativeDocumentMoniker": "ComboItem.cs",
+              "ToolTip": "C:\\Sotirios \u0438 Hristo 11d\\Minions\\ComboItem.cs",
+              "RelativeToolTip": "ComboItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T07:26:57.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Sotirios \u0438 Hristo 11d\\Minions\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Sotirios \u0438 Hristo 11d\\Minions\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAUwEgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T07:02:46.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Sotirios \u0438 Hristo 11d\\Minions\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Sotirios \u0438 Hristo 11d\\Minions\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T06:32:00.213Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
