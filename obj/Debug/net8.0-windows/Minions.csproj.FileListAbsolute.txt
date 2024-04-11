@@ -29,3 +29,4 @@ C:\Sotirios и Hristo 11d\Minions\obj\Debug\net8.0-windows\refint\Minions.dll
 C:\Sotirios и Hristo 11d\Minions\obj\Debug\net8.0-windows\Minions.pdb
 C:\Sotirios и Hristo 11d\Minions\obj\Debug\net8.0-windows\Minions.genruntimeconfig.cache
 C:\Sotirios и Hristo 11d\Minions\obj\Debug\net8.0-windows\ref\Minions.dll
+C:\Sotirios и Hristo 11d\Minions\obj\Debug\net8.0-windows\Minions.sourcelink.json

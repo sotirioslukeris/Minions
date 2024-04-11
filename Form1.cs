@@ -70,7 +70,10 @@ namespace Minions
                 connect.Open();
             }
 
-            MySqlCommand
+            //Insert command for the database
+            MySqlCommand query = new MySqlCommand(insertSQL, connect);
+
+
 
 
             
